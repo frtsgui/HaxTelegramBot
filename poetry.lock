@@ -1,0 +1,15 @@
+[[package]]
+name = "telegram"
+version = "0.0.1"
+description = "Telegram APIs"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "962b64bbea405f9a4b79d1a7be1b6d2a0ee477c58f1ff4c13b668e76a6aad008"
+
+[metadata.files]
+telegram = []
